@@ -8,3 +8,5 @@ Lost customers mean a direct loss of revenue which is why it is important to und
 The dataset used in this project is “Telco Customer Churn version 11.1.3+” data provided by the IBM Cognos Analytics team. It contains information about a telco company that provided home phone and Internet services to 7043 customers in California in Q3. It indicates which customers have left, stayed, or signed up for their service.
 
 The reporistory contains details about the EDA processm Feature Extracting and Preprocessing steps, along with the implementation of ML models such as Logistic Regression, k Nearest neighbor, SVM, Random Forest, XGBoost, LightBoost, Ensemble and Artificial Neural Networks.
+
+For data modeling details follow modelHost2.py, required libraries are mentioned in requirements.txt, the preprocessing steps are mentioned in peprocess.py. 
